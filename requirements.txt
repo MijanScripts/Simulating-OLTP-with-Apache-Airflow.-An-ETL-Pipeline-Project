@@ -1,0 +1,7 @@
+#Python Dependencies
+sqlalchemy==1.3.24
+ibm_db==3.1.0
+datetime
+os
+json
+airflow
