@@ -21,7 +21,7 @@ import csv
 import json
 #import pandas as pd
 
-
+#DAG arguments 
 default_args = {
     'owner':'SOLTIC',
     'start_date': days_ago(0),
